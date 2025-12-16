@@ -104,6 +104,7 @@ export const Footer = () => {
                 <a
                   href="tel:+966552238222"
                   className="text-primary-foreground/80 hover:text-accent transition-colors text-sm"
+                  dir="ltr"
                 >
                   {t("contact.phone.number")}
                 </a>
