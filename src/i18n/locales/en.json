@@ -1,0 +1,261 @@
+{
+    "company": {
+      "name": "Riyah Al-Jaleed Central Air Conditioning Est.",
+      "shortName": "Riyah Al-Jaleed",
+      "tagline": "Your Trusted Partner in Central Air Conditioning Solutions"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "services": "Services",
+      "projects": "Projects",
+      "leadership": "Leadership",
+      "blog": "Blog",
+      "contact": "Contact",
+      "quote": "Request Quote"
+    },
+    "hero": {
+      "title": "Central Air Conditioning Solutions with Global Engineering Standards",
+      "subtitle": "Over a decade of expertise in designing, implementing, and maintaining central HVAC systems for commercial and residential projects across Saudi Arabia",
+      "cta": "Get a Quote",
+      "ctaSecondary": "Explore Our Services",
+      "rating": "4.8",
+      "reviews": "88 Reviews",
+      "trustedBy": "Trusted by hundreds of clients"
+    },
+    "about": {
+      "title": "About Us",
+      "subtitle": "A Leading Engineering Company in Central Air Conditioning",
+      "description": "Riyah Al-Jaleed Central Air Conditioning Est. was founded to provide comprehensive HVAC solutions that meet the highest standards of quality and efficiency. Operating within Isa Bin Aid Al-Hajlah Engineering Consulting Company, we bring deep engineering expertise and the capability to execute major projects.",
+      "mission": {
+        "title": "Our Mission",
+        "text": "To provide comfortable and healthy environments through highly efficient air conditioning systems while maintaining the highest standards of quality and safety."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "text": "To be the first choice in the central air conditioning sector in Saudi Arabia, known for engineering excellence and reliability."
+      },
+      "values": {
+        "title": "Our Values",
+        "quality": "Quality",
+        "qualityText": "We are committed to the highest quality standards in every project",
+        "reliability": "Reliability",
+        "reliabilityText": "We build long-term relationships with our clients",
+        "expertise": "Expertise",
+        "expertiseText": "A specialized engineering team with extensive experience",
+        "innovation": "Innovation",
+        "innovationText": "We keep pace with the latest technologies in air conditioning"
+      },
+      "stats": {
+        "projects": "500+",
+        "projectsLabel": "Completed Projects",
+        "clients": "300+",
+        "clientsLabel": "Satisfied Clients",
+        "years": "10+",
+        "yearsLabel": "Years of Experience",
+        "team": "50+",
+        "teamLabel": "Specialized Technicians"
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive HVAC Solutions with Professional Standards",
+      "description": "We offer a complete range of central air conditioning services including design, supply, installation, and maintenance",
+      "items": {
+        "centralAC": {
+          "title": "Central Air Conditioning Systems",
+          "description": "Design and implementation of complete central air conditioning systems for commercial and residential buildings using the latest technologies"
+        },
+        "installation": {
+          "title": "Installation & Implementation",
+          "description": "A specialized technical team for installing and commissioning air conditioning systems according to the highest safety and quality standards"
+        },
+        "maintenance": {
+          "title": "Preventive & Corrective Maintenance",
+          "description": "Comprehensive periodic maintenance programs and rapid repair services to ensure continuous system operation"
+        },
+        "commercial": {
+          "title": "Commercial Solutions",
+          "description": "Specialized air conditioning solutions for commercial complexes, offices, hotels, and hospitals"
+        },
+        "residential": {
+          "title": "Residential Solutions",
+          "description": "Central air conditioning systems for villas and residential apartments with designs suitable for all spaces"
+        },
+        "consulting": {
+          "title": "Engineering Consulting",
+          "description": "Consulting services in HVAC system design, energy efficiency improvement, and contractor coordination"
+        }
+      },
+      "cta": "Learn More"
+    },
+    "projects": {
+      "title": "Our Projects",
+      "subtitle": "A Track Record of Achievements",
+      "description": "We take pride in successfully executing hundreds of projects across various sectors",
+      "viewAll": "View All Projects",
+      "viewDetails": "Details",
+      "categories": {
+        "all": "All",
+        "commercial": "Commercial",
+        "residential": "Residential",
+        "industrial": "Industrial",
+        "healthcare": "Healthcare"
+      },
+      "items": {
+        "project1": {
+          "title": "Riyadh Commercial Complex",
+          "category": "Commercial",
+          "location": "Riyadh",
+          "description": "Design and implementation of a complete central air conditioning system for a 50,000 sqm commercial complex"
+        },
+        "project2": {
+          "title": "King Fahd Hospital",
+          "category": "Healthcare",
+          "location": "Riyadh",
+          "description": "Specialized HVAC system for healthcare facilities with high air purification standards"
+        },
+        "project3": {
+          "title": "Al-Mursalat Residential Towers",
+          "category": "Residential",
+          "location": "Riyadh",
+          "description": "Central air conditioning for 200 residential units with smart energy management system"
+        },
+        "project4": {
+          "title": "Food Industries Factory",
+          "category": "Industrial",
+          "location": "Dammam",
+          "description": "Industrial cooling system with temperature and humidity control"
+        }
+      }
+    },
+    "leadership": {
+      "title": "Leadership Team",
+      "subtitle": "Distinguished Engineering Expertise",
+      "description": "A leadership team with over 20 years of experience in the HVAC sector",
+      "team": {
+        "ceo": {
+          "name": "Eng. Abdullah Al-Hajlah",
+          "role": "Chief Executive Officer",
+          "bio": "Over 25 years of experience in managing major HVAC projects"
+        },
+        "coo": {
+          "name": "Eng. Fahad Al-Otaibi",
+          "role": "Chief Operations Officer",
+          "bio": "Specialized in operations management and quality assurance"
+        },
+        "technical": {
+          "name": "Eng. Sultan Al-Shammari",
+          "role": "Technical Director",
+          "bio": "Expert in central HVAC system design and engineering solutions"
+        },
+        "projects": {
+          "name": "Eng. Khalid Al-Qahtani",
+          "role": "Projects Director",
+          "bio": "Successful management of over 200 HVAC projects"
+        }
+      }
+    },
+    "quote": {
+      "title": "Request a Quote",
+      "subtitle": "Get a Custom Quote for Your Project",
+      "description": "Our team is ready to provide a free consultation and competitive quote",
+      "form": {
+        "name": "Full Name",
+        "namePlaceholder": "Enter your name",
+        "company": "Company / Organization",
+        "companyPlaceholder": "Company name (optional)",
+        "phone": "Phone Number",
+        "phonePlaceholder": "05xxxxxxxx",
+        "email": "Email Address",
+        "emailPlaceholder": "example@domain.com",
+        "service": "Service Type",
+        "servicePlaceholder": "Select the required service",
+        "message": "Project Details",
+        "messagePlaceholder": "Describe your project and requirements...",
+        "submit": "Submit Request",
+        "submitting": "Submitting...",
+        "success": "Your request has been submitted successfully! We will contact you soon.",
+        "error": "An error occurred. Please try again."
+      },
+      "serviceOptions": {
+        "centralAC": "Central Air Conditioning",
+        "installation": "Installation & Implementation",
+        "maintenance": "Maintenance",
+        "commercial": "Commercial Solutions",
+        "residential": "Residential Solutions",
+        "consulting": "Engineering Consulting"
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "Technical Articles & Tips",
+      "description": "We share our expertise and knowledge in the HVAC field",
+      "readMore": "Read More",
+      "posts": {
+        "post1": {
+          "title": "The Importance of Regular Maintenance for Central AC Systems",
+          "excerpt": "Learn how to maintain your air conditioning system efficiency and extend its lifespan through regular maintenance programs.",
+          "date": "December 15, 2024",
+          "category": "Maintenance"
+        },
+        "post2": {
+          "title": "Energy Efficiency in Modern Air Conditioning Systems",
+          "excerpt": "Discover the latest technologies that help reduce energy consumption while maintaining optimal performance.",
+          "date": "December 10, 2024",
+          "category": "Technology"
+        },
+        "post3": {
+          "title": "Choosing the Right AC System for Your Project",
+          "excerpt": "A comprehensive guide to selecting the most suitable air conditioning system based on building type, space, and usage.",
+          "date": "December 5, 2024",
+          "category": "Guide"
+        }
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "We're Here to Help",
+      "description": "Our team is ready to answer your inquiries and provide technical support",
+      "address": {
+        "title": "Address",
+        "text": "King Abdul Aziz Branch Rd, Al Mursalat, Riyadh 12463",
+        "within": "Within Isa Bin Aid Al-Hajlah Engineering Consulting Company"
+      },
+      "phone": {
+        "title": "Phone",
+        "number": "055 223 8222"
+      },
+      "hours": {
+        "title": "Working Hours",
+        "weekdays": "Sunday - Thursday: 8:00 AM - 6:00 PM",
+        "weekend": "Friday - Saturday: Closed"
+      },
+      "email": {
+        "title": "Email",
+        "address": "info@riyahaljleed.com"
+      }
+    },
+    "footer": {
+      "description": "Riyah Al-Jaleed Central Air Conditioning Est. - Your trusted partner in HVAC solutions for over 10 years",
+      "quickLinks": "Quick Links",
+      "services": "Our Services",
+      "contact": "Contact Us",
+      "rights": "All Rights Reserved",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions"
+    },
+    "notFound": {
+      "title": "404",
+      "subtitle": "Page Not Found",
+      "description": "Sorry, the page you are looking for does not exist or has been moved.",
+      "backHome": "Back to Home"
+    },
+    "common": {
+      "learnMore": "Learn More",
+      "viewAll": "View All",
+      "loading": "Loading...",
+      "error": "An error occurred"
+    }
+  }
+  
