@@ -286,6 +286,7 @@ const Index = () => {
               <a
                 href="tel:+966552238222"
                 className="btn-outline inline-flex items-center gap-2"
+                dir="ltr"
               >
                 {t("contact.phone.number")}
               </a>
