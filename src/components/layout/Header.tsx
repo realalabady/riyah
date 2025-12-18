@@ -69,10 +69,12 @@ export const Header = () => {
           <div className="flex items-center justify-between h-20">
             {/* Logo */}
             <Link to="/" className="flex items-center gap-3">
-              <div className="w-12 h-12 bg-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-xl">
-                  ر
-                </span>
+              <div className="w-45 h-15 bg-primary rounded-lg flex items-center justify-center">
+                <img
+                  src="/rg.jpeg"
+                  alt="Riyah Al-Jaleed Logo"
+                  className="w-45 h-20 "
+                />
               </div>
               <div className="hidden sm:block">
                 <p className="font-bold text-primary text-lg leading-tight">
